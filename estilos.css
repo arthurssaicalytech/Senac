@@ -1,0 +1,18 @@
+*{
+    height: 100%;
+}
+h1{
+text-align: center;
+color: rgb(218, 233, 12);
+}
+ 
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(209, 79, 90);
+    text-align: right ;
+}
+body{
+    background-color: rgb(189, 28, 61);
+    background-image: url(rat.png);
+    background-repeat: no-repeat;
+   background-position: center;
